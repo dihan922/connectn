@@ -26,7 +26,7 @@ Follow these instructions to get Connect-N running on your computer.
 
 2. **Gameplay:**
     - Players take turns making a move by entering the index of the column to drop a piece in.
-    - The game continues until a player achieves the specified number of pieces in a row and wins or the board fills up for a tie.
+    - The game continues until one of the following conditions is met: a player achieves the specified number of pieces in a row and wins, or the board fills up, resulting in a tie.
 
 ## License
 
